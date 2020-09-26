@@ -7,6 +7,3 @@
     <img align="" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubfaliszewski&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
   </a>
 </p>
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/toudi68)
